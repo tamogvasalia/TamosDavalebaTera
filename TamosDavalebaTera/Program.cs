@@ -1,5 +1,4 @@
 ﻿using System;
-
   class HomeWork4
   {
      static void Main(string[] args)
